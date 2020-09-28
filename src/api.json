@@ -1,0 +1,85 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "遊戲",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "RO新世代甚麼時候開服?",
+      "correct_answer": "2020/10/15",
+      "incorrect_answers": ["2020/10/16", "2020/10/17", "2020/10/18"]
+    },
+    {
+      "category": "遊戲",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "貓咪殿堂公會的會長是誰",
+      "correct_answer": "TOBI",
+      "incorrect_answers": ["像極了愛情", "有心傑", "蘿莉大好"]
+    },
+    {
+      "category": "遊戲",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "槍騎適合的屬性配法下列何者是相對主流的?",
+      "correct_answer": "STR",
+      "incorrect_answers": ["AGI", "INT", "LUK"]
+    },
+    {
+      "category": "遊戲",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "新世代的誕生是屬於3D MMORPG 手機遊戲，請問是否正確",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "遊戲",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "新世代的誕生裡的皮里恩等級是29等請問是否正確?",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "category": "遊戲",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "道具-命運之書碎片，蒐集滿幾個才可以兌換成一本命運之書?",
+      "correct_answer": "360",
+      "incorrect_answers": ["460", "560", "660"]
+    },
+    {
+      "category": "遊戲",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "下列關於從MVP身上獲得稀有獎勵次數敘述何者正確?",
+      "correct_answer": "3次",
+      "incorrect_answers": ["2次", "1次", "每天次數都會不同"]
+    },
+    {
+      "category": "遊戲",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "下列何者並非法師系列的技能?",
+      "correct_answer": "hp和sp轉換",
+      "incorrect_answers": ["魔力增幅", "地裂", "連鎖閃電"]
+    },
+    {
+      "category": "遊戲",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "RO的世界中創造世界的巨人是誰?",
+      "correct_answer": "伊米爾",
+      "incorrect_answers": ["伊爾迷", "盤古", "哆啦A夢"]
+    },
+    {
+      "category": "遊戲",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "【黑夜】魔鬼大烏賊卡片是屬於哪個部位的卡片?",
+      "correct_answer": "武器",
+      "incorrect_answers": ["飾品", "盾牌", "鞋子"]
+    }
+  ]
+}
